@@ -36,8 +36,5 @@ Achieved [accuracy/result]
 Tools: Python, Pandas, Scikit-learn
 📊 GitHub Stats
 
-
-
-
 🌐 Connect with Me
 LinkedIn: https://linkedin.com/in/shohom-c-81772
