@@ -1,16 +1,43 @@
-## Hi there 👋
+👋 Hi, I'm Shohom Chakraborty
 
-<!--
-**Sho670/Sho670** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Engineer | Data Pipelining | 📊 Machine Learning | 🤖 AI Enthusiast
 
-Here are some ideas to get you started:
+🚀 Core Skills
+📊 Data Analysis & Visualization
+🤖 Machine Learning
+🧠 Statistical Modeling
+🧹 Data Cleaning & Preprocessing
+📈 Feature Engineering
+🛠️ Tech Stack
+👨‍💻 Languages
+Python
+SQL
+Java
+📊 Data & ML Libraries
+Pandas
+NumPy
+Scikit-learn
+📈 Visualization
+Tableau
+Microsoft Power BI
+Matplotlib
+Seaborn
+🧠 Machine Learning / AI
+Pytorch
+🗄️ Databases
+MySQL
+NoSQL
+📌 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 [Project Name]
+
+Built a machine learning model to [predict/classify/analyze]
+Achieved [accuracy/result]
+Tools: Python, Pandas, Scikit-learn
+📊 GitHub Stats
+
+
+
+
+🌐 Connect with Me
+LinkedIn: https://linkedin.com/in/YOUR_PROFILE
