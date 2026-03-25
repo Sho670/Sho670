@@ -3,30 +3,38 @@
 🎯 Data Engineer | Data Pipelining | 📊 Machine Learning | 🤖 AI Enthusiast
 
 🚀 Core Skills
+
 📊 Data Analysis & Visualization
 🤖 Machine Learning
 🧠 Statistical Modeling
 🧹 Data Cleaning & Preprocessing
 📈 Feature Engineering
-🛠️ Tech Stack
+
+
 👨‍💻 Languages
+
 Python
 SQL
 Java
+
 📊 Data & ML Libraries
 Pandas
 NumPy
 Scikit-learn
+
 📈 Visualization
 Tableau
 Microsoft Power BI
 Matplotlib
 Seaborn
+
 🧠 Machine Learning / AI
 Pytorch
+
 🗄️ Databases
 MySQL
 NoSQL
+
 📌 Featured Projects
 
 🔹 [Project Name]
@@ -35,6 +43,3 @@ Built a machine learning model to [predict/classify/analyze]
 Achieved [accuracy/result]
 Tools: Python, Pandas, Scikit-learn
 📊 GitHub Stats
-
-🌐 Connect with Me
-LinkedIn: https://linkedin.com/in/shohom-c-81772
