@@ -40,4 +40,4 @@ Tools: Python, Pandas, Scikit-learn
 
 
 🌐 Connect with Me
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+LinkedIn: https://linkedin.com/in/shohom-c-81772
