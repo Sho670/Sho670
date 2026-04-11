@@ -43,3 +43,83 @@ Built a machine learning model to [predict/classify/analyze]
 Achieved [accuracy/result]
 Tools: Python, Pandas, Scikit-learn
 📊 GitHub Stats
+
+
+
+
+<h1 align="center">🚀 Hi, I'm YOUR_NAME</h1>
+
+<p align="center">
+A passionate developer who loves building, breaking, and learning things 💻
+</p>
+
+---
+
+## 🌟 About Me
+
+- 🔭 I’m currently working on: **Your Project Name**
+- 🌱 I’m learning: **DSA, Web Development, System Design**
+- 💡 I love solving real-world problems with code
+- 🎯 Goal: Become a strong software engineer
+- ⚡ Fun fact: I enjoy debugging more than writing initial code 😄
+
+---
+
+## 🧠 Skills
+
+**Languages:**  
+JavaScript • Python • C++ • Java  
+
+**Frontend:**  
+HTML • CSS • React  
+
+**Backend:**  
+Node.js • Express  
+
+**Database:**  
+MongoDB • MySQL  
+
+**Tools:**  
+Git • GitHub • VS Code • Linux  
+
+---
+
+## 🚀 Projects
+
+### 🔹 Project One
+A short description of what it does and why it's useful.
+
+### 🔹 Project Two
+Another project with impact or learning outcome.
+
+### 🔹 Project Three
+Something cool you built or are building.
+
+---
+
+## 📈 GitHub Journey
+
+- 🌱 Started learning coding
+- 💻 Built first projects
+- 🚀 Contributing and improving daily
+
+---
+
+## 🌐 Connect With Me
+
+- GitHub: YOUR_USERNAME
+- LinkedIn: YOUR_LINK
+- HackerRank: YOUR_USERNAME
+- Email: yourmail@example.com
+
+---
+
+## 💭 Quote I Live By
+
+> "Consistency beats motivation."
+
+---
+
+## 🎯 Current Focus
+
+Improving my skills one commit at a time 
