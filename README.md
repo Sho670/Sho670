@@ -47,20 +47,20 @@ Tools: Python, Pandas, Scikit-learn
 
 
 
-<h1 align="center">🚀 Hi, I'm YOUR_NAME</h1>
+<h1 align="center">🚀 Hi, I'm SHOHOM CHAKRABORTY</h1>
 
 <p align="center">
-A passionate developer who loves building, breaking, and learning things 💻
+A passionate Data Enginner who loves building, breaking, and learning things 💻
 </p>
 
 ---
 
-## 🌟 About Me
+🌟 About Me
 
-- 🔭 I’m currently working on: **Your Project Name**
-- 🌱 I’m learning: **DSA, Web Development, System Design**
+- 🔭 I’m currently working on: Cyber Security based Project for Automated Threat Detection
+- 🌱 I’m learning: **Data Structures , Data Pipeling, AWS**
 - 💡 I love solving real-world problems with code
-- 🎯 Goal: Become a strong software engineer
+- 🎯 Goal: Become a Result-Driven Developer
 - ⚡ Fun fact: I enjoy debugging more than writing initial code 😄
 
 ---
