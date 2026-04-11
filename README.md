@@ -68,19 +68,19 @@ A passionate Data Enginner who loves building, breaking, and learning things �
 ## 🧠 Skills
 
 **Languages:**  
-JavaScript • Python • C++ • Java  
+SQL • Python • Java 
 
-**Frontend:**  
-HTML • CSS • React  
+**Data and Machine Learning Libraries:**  
+Pandas • Numpy • Scikit-learn  
 
-**Backend:**  
-Node.js • Express  
+**Visualization:**  
+Microsoft Power BI • Tableau | Mathplotlib  
 
 **Database:**  
 MongoDB • MySQL  
 
 **Tools:**  
-Git • GitHub • VS Code • Linux  
+Git • GitHub • Visual Studio Code • Apache Kafta   
 
 ---
 
