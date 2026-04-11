@@ -1,51 +1,3 @@
-👋 Hi, I'm Shohom Chakraborty
-
-🎯 Data Engineer | Data Pipelining | 📊 Machine Learning | 🤖 AI Enthusiast
-
-🚀 Core Skills
-
-📊 Data Analysis & Visualization
-🤖 Machine Learning
-🧠 Statistical Modeling
-🧹 Data Cleaning & Preprocessing
-📈 Feature Engineering
-
-
-👨‍💻 Languages
-
-Python
-SQL
-Java
-
-📊 Data & ML Libraries
-Pandas
-NumPy
-Scikit-learn
-
-📈 Visualization
-Tableau
-Microsoft Power BI
-Matplotlib
-Seaborn
-
-🧠 Machine Learning / AI
-Pytorch
-
-🗄️ Databases
-MySQL
-NoSQL
-
-📌 Featured Projects
-
-🔹 [Project Name]
-
-Built a machine learning model to [predict/classify/analyze]
-Achieved [accuracy/result]
-Tools: Python, Pandas, Scikit-learn
-📊 GitHub Stats
-
-
-
 
 <h1 align="center">🚀 Hi, I'm SHOHOM CHAKRABORTY</h1>
 
@@ -90,31 +42,32 @@ Git • GitHub • Visual Studio Code • Apache Kafta
 
 ## 🚀 Projects
 
-### 🔹 Project One
-A short description of what it does and why it's useful.
+### 🔹 Project One: Academia: A Database Management System based Project
+Academia is a Course Management, database-driven application designed to handle the process of student, course enrollment and course management registration. Using tools such as PHP, HTML5, CSS and JavaScript, the project was being successfully complemented using a web based user interface.
 
-### 🔹 Project Two
-Another project with impact or learning outcome.
+### 🔹 Project Two: Solar Suitability: A Web-based Application
+A functional Solar Panel usability website using JavaScript, HTML and CSS. Along with storing the generated data into Supa Base data storage.
 
-### 🔹 Project Three
-Something cool you built or are building.
+•Implemented mathematical functions and operations to ensure accurate calculations of the weather and overall energy consumption to estimate the total cost for the user.
+
+
+### 🔹 Project Three: Amazon Content Analyzer - A MongoDB based Project driven towards information and analysis
+A Data-driven MongoDB based project using Amazon Contents Dataset, the project led towards various informative analysis of the content present and provides meaning insights for the same information.
 
 ---
 
 ## 📈 GitHub Journey
 
-- 🌱 Started learning coding
-- 💻 Built first projects
-- 🚀 Contributing and improving daily
+- 🌱 Started learning coding since 2024.
+- 💻 Build my first project during the initial years of the GitHub Journey.
+- 🚀 Contributed 200+ GitHub Commits and counting. Improving daily with different and meaningful information and insights.
 
 ---
 
 ## 🌐 Connect With Me
 
-- GitHub: YOUR_USERNAME
-- LinkedIn: YOUR_LINK
-- HackerRank: YOUR_USERNAME
-- Email: yourmail@example.com
+- GitHub: Sho670 (www.github.com/Sho670)
+- HackerRank: Shohom (www.hackerrank.com/Shohom2005)
 
 ---
 
