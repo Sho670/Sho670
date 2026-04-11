@@ -58,9 +58,13 @@ A passionate Data Enginner who loves building, breaking, and learning things �
 🌟 About Me
 
 - 🔭 I’m currently working on: Cyber Security based Project for Automated Threat Detection
+  
 - 🌱 I’m learning: **Data Structures , Data Pipeling, AWS**
+  
 - 💡 I love solving real-world problems with code
+  
 - 🎯 Goal: Become a Result-Driven Developer
+  
 - ⚡ Fun fact: I enjoy debugging more than writing initial code 😄
 
 ---
