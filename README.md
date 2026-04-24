@@ -51,7 +51,7 @@ A functional Solar Panel usability website using JavaScript, HTML and CSS. Along
 •Implemented mathematical functions and operations to ensure accurate calculations of the weather and overall energy consumption to estimate the total cost for the user.
 
 
-### 🔹 Project Three: Amazon Content Analyzer - A MongoDB based Project driven towards information and analysis
+### 🔹 Project Three: Amazon Content Analyzer - A MongoDB based Analysis-driven Project
 A Data-driven MongoDB based project using Amazon Contents Dataset, the project led towards various informative analysis of the content present and provides meaning insights for the same information.
 
 ---
