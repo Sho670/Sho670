@@ -9,7 +9,7 @@ A passionate Data Enginner who loves building, breaking, and learning things �
 
 🌟 About Me
 
-- 🔭 I’m currently working on: Cyber Security based Project for Automated Threat Detection using Docker
+- 🔭 I’m currently working on: Cyber Security based Project for Automated Threat Detection using Docker and AI Workflow Automation
   
 - 🌱 I’m learning: **Data Structures , Data Pipeling, AWS**
   
