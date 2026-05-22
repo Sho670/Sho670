@@ -24,19 +24,19 @@ A passionate Data Enginner who loves building, breaking, and learning things �
 ## 🧠 Skills
 
 **Languages:**  
-SQL • Python • Java 
+SQL • NoSQL . Python • Java 
 
 **Data and Machine Learning Libraries:**  
 Pandas • Numpy • Scikit-learn  
 
-**Visualization:**  
-Microsoft Power BI • Tableau | Mathplotlib  
+**Visualization Tools:**  
+Microsoft Power BI • Tableau . Mathplotlib  
 
 **Database:**  
-MongoDB • MySQL  
+MongoDB • MySQL . MySQL Server 
 
 **Tools:**  
-Git • GitHub • Visual Studio Code • Apache Kafka   
+Git • GitHub • Google Antigravity . Visual Studio Code • Apache Spark . Apache Airflow . Apache Kafka . Databricks 
 
 ---
 
