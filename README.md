@@ -60,7 +60,7 @@ A Data-driven MongoDB based project using Amazon Contents Dataset, the project l
 
 - 🌱 Started learning coding since 2020.
 - 💻 Build my first project during the initial years of the GitHub Journey.
-- 🚀 Contributed 300+ GitHub Commits and counting. Improving daily with different and meaningful information and insights.
+- 🚀 Contributed 350+ GitHub Commits and counting. Improving daily with different and meaningful information and insights.
 
 ---
 
