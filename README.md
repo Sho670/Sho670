@@ -40,17 +40,17 @@ Git • GitHub • Google Antigravity . Visual Studio Code • Apache Spark . Ap
 
 ## 🚀 Projects
 
-### 🔹 Project One: Academia: A Database Management System based Project
-Academia is a Course Management, database-driven application designed to handle the process of student, course enrollment and course management registration. Using tools such as PHP, HTML5, CSS and JavaScript, the project was being successfully complemented using a web based user interface.
+### 🔹 Project One: Student Enrollment System: A Database Management System based Project
+A database-driven application designed to handle the process of student, course enrollment and course management registration. Using tools such as PHP, HTML5, CSS and JavaScript, the project was being successfully complemented using a web based UI and ER Diagrams.
 
-### 🔹 Project Two: Solar Suitability: A Web-based Application
-A functional Solar Panel usability website using JavaScript, HTML and CSS. Along with storing the generated data into Supa Base data storage.
+### 🔹 Project Two: Solar Usuage Project: A Web-based Application
+A combination of tools such as HTML, CSS and JS. Along with for storing purpose, used SupaBase for data storage.
 
 •Implemented mathematical functions and operations to ensure accurate calculations of the weather and overall energy consumption to estimate the total cost for the user.
 
 
 ### 🔹 Project Three: Amazon Content Analyzer - A MongoDB based Analysis-driven Project
-A Data-driven MongoDB based project using Amazon Contents Dataset, the project led towards various informative analysis of the content present and provides meaning insights for the same information.
+A Data-driven MongoDB based project using Amazon Contents Dataset, the project led towards various informative analysis of the data present in the dataset using various Aggregation Pipelines created in MongoDB Compass.
 
 ---
 
