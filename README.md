@@ -15,25 +15,23 @@ A Data Enginner who loves building, breaking, and learning things 💻
   
 - 💡 I love solving real-world problems with code
   
-- 🎯 Goal: Become a Result-Driven Developer
-  
 - ⚡ Fun fact: I enjoy debugging more than writing initial code 😄
 
 ---
 
 ## 🧠 Skills
 
-**Languages:**  
+**Programming Languages:**  
 SQL • NoSQL . Python • Java 
 
 **Data and Machine Learning Libraries:**  
 Pandas • Numpy • Scikit-learn  
 
 **Visualization Tools:**  
-Microsoft Power BI • Tableau . Mathplotlib  
+Microsoft Power BI • Tableau. Seaborn . Plotly. Mathplotlib  
 
 **Database:**  
-MongoDB • MySQL . MySQL Server 
+MongoDB • MongoDB Compass . MySQL . MySQL Server 
 
 **Tools:**  
 Git • GitHub • Google Antigravity . Visual Studio Code • Apache Spark . Apache Airflow . Apache Kafka . Databricks 
