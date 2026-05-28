@@ -71,7 +71,7 @@ A Data-driven MongoDB based project using Amazon Contents Dataset, the project l
 
 ## 💭 Quote I Live By
 
-> "Consistency beats motivation." | "Every Day is Day One."
+> "Consistency works with Discipline."
 
 ---
 
