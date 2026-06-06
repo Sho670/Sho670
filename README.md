@@ -45,10 +45,10 @@ A expanded data analysis project for Amazon Prime Dataset from the year 1920-202
 
 Experienced with dataset of containing over 1,00,000 + records of large-data which include, different kinds of Movies and TV Shows.
 
-### 🔹 Project Two: Solar Usuage Project: A Web-based Application
-A combination of tools such as HTML, CSS and JS. Along with for storing purpose, used SupaBase for data storage.
+### 🔹 Project Two: Automated Sales ETL Pipeline: A Batch processing based ETL Project
+Deployed an Automated ETL Pipeline to process transactional sales process data, performed KPI Aggregation to stored optimized analytics dataset using Delta Lakes.
 
-•Implemented mathematical functions and operations to ensure accurate calculations of the weather and overall energy consumption to estimate the total cost for the user.
+Used tools like Apache Airflow in order to work with workflow orchestration and storing processed data as Deltas.
 
 
 ### 🔹 Project Three: Amazon Content Analyzer - A MongoDB based Analysis-driven Project
