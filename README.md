@@ -40,8 +40,10 @@ Git • GitHub • Google Antigravity . Visual Studio Code • Apache Spark . Ap
 
 ## 🚀 Projects
 
-### 🔹 Project One: Student Enrollment System: A Database Management System based Project
-A database-driven application designed to handle the process of student, course enrollment and course management registration. Using tools such as PHP, HTML5, CSS and JavaScript, the project was being successfully complemented using a web based UI and ER Diagrams.
+### 🔹 Project One: Amazon Prime Content Analysis: A MongoDB driven data analysis project
+A expanded data analysis project for Amazon Prime Dataset from the year 1920-2021
+
+Experienced with dataset of containing over 1,00,000 + records of large-data which include, different kinds of Movies and TV Shows.
 
 ### 🔹 Project Two: Solar Usuage Project: A Web-based Application
 A combination of tools such as HTML, CSS and JS. Along with for storing purpose, used SupaBase for data storage.
