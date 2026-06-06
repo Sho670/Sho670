@@ -53,8 +53,7 @@ Deployed an Automated ETL Pipeline to process transactional sales process data, 
 Used tools like Apache Airflow in order to work with workflow orchestration and storing processed data as Deltas.
 
 
-### 🔹 Project Three: Amazon Content Analyzer - A MongoDB based Analysis-driven Project
-A Data-driven MongoDB based project using Amazon Contents Dataset, 
+### 🔹 Project Three: 
 
 ---
 
