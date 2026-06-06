@@ -53,7 +53,13 @@ Deployed an Automated ETL Pipeline to process transactional sales process data, 
 Used tools like Apache Airflow in order to work with workflow orchestration and storing processed data as Deltas.
 
 
-### 🔹 Project Three: 
+### 🔹 Project Three: Company Sales Revenue Analysis using MongoDB
+
+The project focuses on analyzing company sales and revenue data using MongoDB. The system is designed to store, process, and analyze large volumes of business transaction data efficiently. 
+
+By using MongoDB aggregation pipelines, the project generates valuable business insights such as revenue trends, product performance and regional sales analysis with the use of visualization tool as Microsoft Power BI.
+
+The primary goal of this project is to demonstrate how MongoDB can be used for real-world business analytics and decision-making processes.
 
 ---
 
