@@ -45,6 +45,8 @@ A expanded data analysis project for Amazon Prime Dataset from the year 1920-202
 
 Experienced with dataset of containing over 1,00,000 + records of large-data which include, different kinds of Movies and TV Shows.
 
+The project also led towards various informative analysis of the Amazon prime data present in the dataset using various Aggregation Pipelines created in MongoDB Compass.
+
 ### 🔹 Project Two: Automated Sales ETL Pipeline: A Batch processing based ETL Project
 Deployed an Automated ETL Pipeline to process transactional sales process data, performed KPI Aggregation to stored optimized analytics dataset using Delta Lakes.
 
@@ -52,7 +54,7 @@ Used tools like Apache Airflow in order to work with workflow orchestration and 
 
 
 ### 🔹 Project Three: Amazon Content Analyzer - A MongoDB based Analysis-driven Project
-A Data-driven MongoDB based project using Amazon Contents Dataset, the project led towards various informative analysis of the data present in the dataset using various Aggregation Pipelines created in MongoDB Compass.
+A Data-driven MongoDB based project using Amazon Contents Dataset, 
 
 ---
 
