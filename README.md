@@ -41,6 +41,7 @@ Git • GitHub • Google Antigravity . Visual Studio Code • Apache Spark . Ap
 ## 🚀 Projects
 
 ### 🔹 Project One: Amazon Prime Content Analysis: A MongoDB driven data analysis project
+
 A expanded data analysis project for Amazon Prime Dataset from the year 1920-2021
 
 Experienced with dataset of containing over 1,00,000 + records of large-data which include, different kinds of Movies and TV Shows.
@@ -48,6 +49,7 @@ Experienced with dataset of containing over 1,00,000 + records of large-data whi
 The project also led towards various informative analysis of the Amazon prime data present in the dataset using various Aggregation Pipelines created in MongoDB Compass.
 
 ### 🔹 Project Two: Automated Sales ETL Pipeline: A Batch processing based ETL Project
+
 Deployed an Automated ETL Pipeline to process transactional sales process data, performed KPI Aggregation to stored optimized analytics dataset using Delta Lakes.
 
 Used tools like Apache Airflow in order to work with workflow orchestration and storing processed data as Deltas.
@@ -65,7 +67,13 @@ The primary goal of this project is to demonstrate how MongoDB can be used for r
 
 ### 🔹 Project Four: Review Authenticity & Sentiment Analyzer- A Generative AI based Project
 
-The project demonstrates the use of Natural Language Processing (NLP) in a real-world problem like identification of a real and genuine review.In order to do that, there are two key dimensions that are often target are authenticity (detecting fake or bot-generated reviews) and sentiment (determining if the review expresses positive, negative, or neutral emotions). Both tasks involve distinct methods but can be integrated for a comprehensive review assessment.
+The project demonstrates the use of Natural Language Processing (NLP) and Machine Learning (ML) Algorithms in a real-world problem like identification of a real and genuine review.
+
+In order to do that, there are two key dimensions that are often target are authenticity (detecting fake or bot-generated reviews) and sentiment (determining if the review expresses positive, negative, or neutral emotions). 
+
+Both tasks involve distinct methods but can be integrated for a comprehensive review assessment.
+
+Tools Used: Scikit-Learn, Hugging-Faced Tranformers Model, Pandas, Numpy, & More...
 
 ---
 
