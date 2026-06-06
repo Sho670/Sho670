@@ -61,6 +61,12 @@ By using MongoDB aggregation pipelines, the project generates valuable business 
 
 The primary goal of this project is to demonstrate how MongoDB can be used for real-world business analytics and decision-making processes.
 
+
+
+### 🔹 Project Four: Review Authenticity & Sentiment Analyzer- A Generative AI based Project
+
+The project demonstrates the use of Natural Language Processing (NLP) in a real-world problem like identification of a real and genuine review.In order to do that, there are two key dimensions that are often target are authenticity (detecting fake or bot-generated reviews) and sentiment (determining if the review expresses positive, negative, or neutral emotions). Both tasks involve distinct methods but can be integrated for a comprehensive review assessment.
+
 ---
 
 ## 📈 GitHub Journey
