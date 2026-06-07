@@ -80,7 +80,9 @@ Git • GitHub • Google Antigravity . Visual Studio Code • Apache Spark . Ap
 ## 📈 GitHub Journey
 
 - 🌱 Started learning coding since 2020.
+  
 - 💻 Build my first project during the initial years of the GitHub Journey.
+  
 - 🚀 Contributed 400+ GitHub Commits and counting. Improving daily with different and meaningful information and insights.
 
 ---
@@ -88,6 +90,7 @@ Git • GitHub • Google Antigravity . Visual Studio Code • Apache Spark . Ap
 ## 🌐 Connect With Me
 
 - GitHub: Sho670 (www.github.com/Sho670)
+  
 - HackerRank: Shohom (www.hackerrank.com/Shohom2005)
 
 ---
