@@ -9,7 +9,7 @@ A Data Enginner who loves building, breaking, and learning things 💻
 
 🌟 About Me
 
-- 🔭 I’m currently working on my Major Project: Cyber Security based Project for Automated Threat Detection using Docker and AI Workflow Automation
+- 🔭 I’m currently working on my Major Project: Cyber Security based Project for Automated Threat Detection using Docker, and AI Workflow Automation
   
 - 🌱 I’m currently learning: **Workflow Orchestration, Data Pipeling, Amazon Web Services, EC2, S3**
   
@@ -83,7 +83,7 @@ Git • GitHub • Google Antigravity . Visual Studio Code • Apache Spark . Ap
   
 - 💻 Build my first project during the initial years of the GitHub Journey.
   
-- 🚀 Contributed 600+ GitHub Commits and counting. Improving daily with different and meaningful information and insights.
+- 🚀 Contributed 650+ GitHub Commits and counting. Improving daily with different and meaningful information and insights.
 
 ---
 
