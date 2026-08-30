@@ -2,7 +2,7 @@
 <h1 align="center">🚀 Hi, I'm SHOHOM CHAKRABORTY</h1>
 
 <p align="center">
-A Data Enginner who loves building, breaking, and learning things 💻
+A Software Enginner who loves building, breaking, and learning things 💻
 </p>
 
 ---
