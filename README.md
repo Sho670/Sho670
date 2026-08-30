@@ -27,6 +27,9 @@ SQL • NoSQL . Python • Java
 **Data and Machine Learning Libraries:**  
 Pandas • Numpy • Scikit-learn  
 
+**Web Development Tools:**  
+HTML . CSS . JS . NodeJS . ReactJS . ExpressJS . APIs Integration
+
 **Visualization Tools:**  
 Microsoft Power BI • Tableau. Seaborn . Plotly. Mathplotlib  
 
