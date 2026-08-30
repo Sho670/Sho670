@@ -34,7 +34,7 @@ Microsoft Power BI • Tableau. Seaborn . Plotly. Mathplotlib
 MongoDB • MongoDB Compass . MySQL . MySQL Server 
 
 **Tools:**  
-Git • GitHub • Google Antigravity . Visual Studio Code • Apache Spark . Apache Airflow . Apache Kafka . Databricks 
+Git • GitHub • Google Antigravity . Visual Studio Code • Apache Spark . Claude Code . OpenAI ChatGPT . Gemini AI
 
 ---
 
