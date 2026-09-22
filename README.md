@@ -22,7 +22,7 @@ A Software Enginner who loves building, breaking, and learning things 💻
 ## 🧠 Skills
 
 **Programming Languages:**  
-SQL • NoSQL . Python • Java 
+SQL • NoSQL . Python • Java . JavaScript . TypeScript
 
 **Data and Machine Learning Libraries:**  
 Pandas • Numpy • Scikit-learn  
@@ -30,7 +30,7 @@ Pandas • Numpy • Scikit-learn
 **Web Development Tools:**  
 HTML . CSS . JS . NodeJS . ReactJS . ExpressJS . APIs Integration
 
-**Visualization Tools:**  
+**Visualization Tools & Libraries:**  
 Microsoft Power BI • Tableau. Seaborn . Plotly. Mathplotlib  
 
 **Database:**  
