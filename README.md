@@ -43,7 +43,13 @@ Git • GitHub • Google Antigravity . Visual Studio Code • Apache Spark . Cl
 
 ## 🚀 Top 4 Projects
 
-### 🔹 Project One: 
+### 🔹 Project One: AI Codebase Archeologist: A Full-Stack Development Project
+
+>> Build a full-stack MERN application that accepts GitHub repository URL and fetches repository metadata, file structure, README.md file, the source-code and codebase information.
+
+>>  Implemented JWT based authentication and protected API routes to secure user registration, login, and access to repository-analysis features. Persisted user and analysis records in MongoDB and handled invalid file types.
+
+>> Developed Node.js and Express.js REST APIs to validate inputs, fetch GitHub repo metadata and file structure and automate ZIP-file extraction and source-code processing.
 
 ### 🔹 Project Two: Amazon Prime Content Analysis: A MongoDB driven data analysis project
 
