@@ -51,6 +51,10 @@ Git • GitHub • Google Antigravity . Visual Studio Code • Apache Spark . Cl
 
 >> Developed Node.js and Express.js REST APIs to validate inputs, fetch GitHub repo metadata and file structure and automate ZIP-file extraction and source-code processing.
 
+>> Integrated Google Gemini API to generate repository summaries and high-level architecture documentation.
+
+>> Built a React.js dashboard for authenticated users to view analysis history and repository insights.
+
 ### 🔹 Project Two: Amazon Prime Content Analysis: A MongoDB driven data analysis project
 
 >> A expanded data analysis project for Amazon Prime Dataset from the year 1920-2021
