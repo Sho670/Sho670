@@ -43,19 +43,15 @@ Git • GitHub • Google Antigravity . Visual Studio Code • Apache Spark . Cl
 
 ## 🚀 Top 4 Projects
 
-### 🔹 Project One: Amazon Prime Content Analysis: A MongoDB driven data analysis project
+### 🔹 Project One: 
+
+### 🔹 Project Two: Amazon Prime Content Analysis: A MongoDB driven data analysis project
 
 >> A expanded data analysis project for Amazon Prime Dataset from the year 1920-2021
 
 >> Experienced with dataset of containing over 1,00,000 + records of large-data which include, different kinds of Movies and TV Shows.
 
 >> The project also led towards various informative analysis of the Amazon prime data present in the dataset using various Aggregation Pipelines created in MongoDB Compass.
-
-### 🔹 Project Two: Automated Sales ETL Pipeline: A Batch processing based ETL Project
-
->> Deployed an Automated ETL Pipeline to process transactional sales process data, performed KPI Aggregation to stored optimized analytics dataset using Delta Lakes.
-
->> Used tools like Apache Airflow in order to work with workflow orchestration and storing processed data as Deltas.
 
 
 ### 🔹 Project Three: Company Sales Revenue Analysis using MongoDB
