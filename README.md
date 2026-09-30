@@ -22,7 +22,7 @@ A Software Enginner who loves building, breaking, and learning things 💻
 ## 🧠 Skills
 
 **Programming Languages:**  
-SQL • NoSQL . Python • Java . JavaScript . TypeScript
+SQL • NoSQL . Python • Java . JavaScript Object Notation
 
 **Data and Machine Learning Libraries:**  
 Pandas • Numpy • Scikit-learn  
